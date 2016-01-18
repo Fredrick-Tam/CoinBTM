@@ -1,0 +1,29 @@
+/*
+Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+Author:HtmlCoder
+Author URI:http://www.htmlcoder.me
+Version:1.0.0
+Created:November 2014
+License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+File Description: Place here your custom CSS styles
+*/
+
+#googft-mapCanvas {
+  height: 700px;
+  padding-top: 0px;
+  clear:both
+  position: static;
+  width: 100%;
+}
+
+
+#marks{
+padding-top: 5px;
+padding-left: 5px;
+float: left;
+margin-left: 15px;
+}
+
+#keys{
+	padding: 10px;
+}

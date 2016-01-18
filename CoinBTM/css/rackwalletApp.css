@@ -1,0 +1,51 @@
+#footer {
+	margin-top: 200px;
+}
+
+#contact {
+	text-align: center;
+}
+
+
+#information {
+	margin: 8%;
+	padding: 2.5%;
+	border: solid 2px #B0E0E6;
+	border-radius: 5px;
+}
+
+
+#app-images img {
+	width: 60%;
+	margin-left: 100px;
+
+}
+
+
+#app-images {
+	margin-top: 2%;
+}
+
+#arrow {
+	margin-top: 200px;
+
+}
+
+#blue {
+	margin-top: 200px;
+
+}
+
+#blue img {
+	width: 200px;
+	margin-bottom: 10px;
+}
+
+#blue h1 {
+	font-size: 50px;
+	margin-bottom: 5%;
+}
+
+#how {
+	margin-top: 5%;
+}
